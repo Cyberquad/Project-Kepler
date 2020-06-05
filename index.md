@@ -1,6 +1,6 @@
 ## Project Kepler
-
-You can use the [editor on GitHub](https://github.com/Cyberquad/project-kepler/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Project Kepler is an indie game made by a high school student
+```You can use the [editor on GitHub](https://github.com/Cyberquad/project-kepler/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
